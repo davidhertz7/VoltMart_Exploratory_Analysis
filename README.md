@@ -124,7 +124,7 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 
 # Dashboard
-To gain more insights for your team use the interactive Tableau Dashboarad below [here](https://public.tableau.com/app/profile/david.hertz/viz/VoltMart-IntSalesDashboard/SalesDashboard))
+To gain more insights for your team use the interactive Tableau Dashboarad below [here](https://public.tableau.com/app/profile/david.hertz/viz/VoltMart-IntSalesDashboard/SalesDashboard)
 <p align="center">
 <img width="1000" height="800" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/d3e1040c-ca4b-4470-bfe7-8c81bcbbac67" />
 </p>
