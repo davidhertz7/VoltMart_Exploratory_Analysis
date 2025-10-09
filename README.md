@@ -1,7 +1,7 @@
 # VoltMart E-Commerce Analysis
 <img width="1415" height="450" alt="image" src="https://github.com/user-attachments/assets/b6de3ea7-fb8b-4211-b697-697e6383ba43" />
 
-## Company Background
+# Company Background
 
 
 Insights and recommendations are provided on the following key areas:
@@ -120,4 +120,17 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 * Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
   
 * Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+
+
+
+# Dashboard
+To gain more insights for your team use the interactive Tableau Dashboarad below [here](https://public.tableau.com/app/profile/david.hertz/viz/VoltMart-IntSalesDashboard/SalesDashboard))
+<p align="center">
+<img width="1000" height="800" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/d3e1040c-ca4b-4470-bfe7-8c81bcbbac67" />
+</p>
+
+
+
+
+
 
