@@ -60,7 +60,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 ### Seasonality
 <p align="center">
-<img width="840" height="296" alt="image" src="https://github.com/user-attachments/assets/7b517cb9-cbb1-4f99-aec8-cdcffbe75b5f" />
+<img width="780" height="296" alt="image" src="https://github.com/user-attachments/assets/7b517cb9-cbb1-4f99-aec8-cdcffbe75b5f" />
 </p>
 
 
