@@ -33,7 +33,10 @@ The companies main database structure as seen below consists of four tables: ord
 
 
 # Executive Summary
-<img width="1581" height="787" alt="image" src="https://github.com/user-attachments/assets/59c32267-1477-4069-831e-34c56ad10d26" />
+<img width="1779" height="788" alt="image" src="https://github.com/user-attachments/assets/4073fc0f-db36-4195-8479-8ca09ee8c8a6" />
+
+
+
 
 
 
