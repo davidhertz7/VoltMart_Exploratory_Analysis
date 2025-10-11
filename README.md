@@ -7,9 +7,10 @@
 Insights and recommendations are provided on the following key areas:
 
 - **Sales Trends Analysis:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Product Performance:** 
+- **Geographical Comparisons:** 
+- **Evaluation Loyalty Program:**
+- **KPI Reporting Refund Rates:** 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
@@ -32,6 +33,12 @@ The companies main database structure as seen below consists of four tables: ord
 
 
 # Executive Summary
+<img width="1581" height="787" alt="image" src="https://github.com/user-attachments/assets/59c32267-1477-4069-831e-34c56ad10d26" />
+
+
+
+
+
 
 ### Overview of Findings
 
@@ -42,7 +49,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Category 1:
+### Sales Trends
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -51,11 +58,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
+### Seasonality
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Product Performance
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -68,7 +75,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Geographical Comparisons
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -81,7 +88,20 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Loyalty Program
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 4]
+
+
+### Refund Rates
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
