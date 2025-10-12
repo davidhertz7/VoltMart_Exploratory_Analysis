@@ -33,8 +33,9 @@ The companies main database structure as seen below consists of four tables: ord
 
 
 # Executive Summary
+<p align="center">
 <img width="1779" height="788" alt="image" src="https://github.com/user-attachments/assets/4073fc0f-db36-4195-8479-8ca09ee8c8a6" />
-
+</p>
 
 
 
@@ -53,7 +54,13 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 # Insights Deep Dive
 ### Sales Trends
-<img width="1240" height="879" alt="image" src="https://github.com/user-attachments/assets/df9a0734-fefb-4379-b581-9ddb86414b6d" />
+<p align="center">
+<img width="1687" height="601" alt="image" src="https://github.com/user-attachments/assets/6c884e05-17a6-48a5-8ba4-222f6c19063a" />
+</p>
+
+
+
+
 
 
 
@@ -66,12 +73,23 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 ### Seasonality
 <p align="center">
-<img width="780" height="296" alt="image" src="https://github.com/user-attachments/assets/7b517cb9-cbb1-4f99-aec8-cdcffbe75b5f" />
+<img width="833" height="321" alt="image" src="https://github.com/user-attachments/assets/f4212b2c-d21e-4443-9e59-de1bebb7b03a" />
 </p>
 
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 
 ### Product Performance
+<img width="1877" height="644" alt="image" src="https://github.com/user-attachments/assets/5927c3ec-c1ab-484b-8c51-96a4114efbf8" />
+
+
+
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -85,6 +103,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Geographical Comparisons
+<img width="1875" height="644" alt="image" src="https://github.com/user-attachments/assets/2224d2be-830e-4077-baca-204eff77b66d" />
+
+
+
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
