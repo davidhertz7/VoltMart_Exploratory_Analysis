@@ -53,6 +53,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 # Insights Deep Dive
 ### Sales Trends
+<img width="1249" height="879" alt="image" src="https://github.com/user-attachments/assets/f1e64473-a589-491a-9527-b59e5af56976" />
+
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
