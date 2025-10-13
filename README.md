@@ -86,7 +86,9 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Product Performance
-<img width="1877" height="644" alt="image" src="https://github.com/user-attachments/assets/5927c3ec-c1ab-484b-8c51-96a4114efbf8" />
+<img width="1880" height="644" alt="image" src="https://github.com/user-attachments/assets/5c0438f0-c704-43c3-89ad-1f7f363ed938" />
+
+
 
 
 
@@ -103,7 +105,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Geographical Comparisons
-<img width="1875" height="644" alt="image" src="https://github.com/user-attachments/assets/2224d2be-830e-4077-baca-204eff77b66d" />
+<img width="1881" height="644" alt="image" src="https://github.com/user-attachments/assets/c17abd1f-59fa-4373-ae85-15fe5a2b2d6c" />
 
 
 
@@ -120,6 +122,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Loyalty Program
+<img width="950" height="693" alt="image" src="https://github.com/user-attachments/assets/ee35f268-9bd5-4f38-99fd-a8388a3fbd01" />
+
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
