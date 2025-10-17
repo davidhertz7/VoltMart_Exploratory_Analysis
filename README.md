@@ -24,7 +24,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: orders, customers, order_status, geo_lookup, with a total row count of 214,413 records. A description of each table is as follows:
+The companies main database structure as seen below consists of four tables: orders, customers, order_status, geo_lookup, with a total row count of 108,130 records. A description of each table is as follows:
 - **Table 2:**
 - **Table 3:**
 - **Table 4:**
