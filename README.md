@@ -73,7 +73,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 ### Seasonality
 <p align="center">
-<img width="833" height="321" alt="image" src="https://github.com/user-attachments/assets/f4212b2c-d21e-4443-9e59-de1bebb7b03a" />
+<img width="762" height="295" alt="image" src="https://github.com/user-attachments/assets/82c1dd04-9ce9-41d1-845b-5cf2ceec32b8" />
 </p>
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
@@ -137,6 +137,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Refund Rates
+<img width="1500" height="433" alt="image" src="https://github.com/user-attachments/assets/c80cb269-8abc-4ca8-b53d-abd0ff9e2355" />
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
