@@ -6,11 +6,13 @@
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trends Analysis:** 
-- **Product Performance:** 
-- **Geographical Comparisons:** 
+- **Sales Trends Analysis:** Evaluation of historical sales trends and notable seasonal patterns.
+- **Product Line Performance:** An assessment of VoltMarts Product Lines and what impact various products had on sales and returns.
+- **Geographical Comparisons:** Analyze and identify strategic market opportunities globally at both regional and country levels.
 - **Evaluation Loyalty Program:**
-- **KPI Reporting Refund Rates:** 
+- **KPI Reporting Refund Rates:**
+
+  Key Metrics:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
@@ -137,7 +139,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Refund Rates
-<img width="1498" height="419" alt="image" src="https://github.com/user-attachments/assets/ee6e1a26-5f6b-45a5-bb94-e4d41a945d7c" />
+<img width="1495" height="420" alt="image" src="https://github.com/user-attachments/assets/7c409e74-880f-4ef2-b58e-bc1aaeee16de" />
+
 
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
