@@ -137,7 +137,8 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Refund Rates
-<img width="1500" height="433" alt="image" src="https://github.com/user-attachments/assets/c80cb269-8abc-4ca8-b53d-abd0ff9e2355" />
+<img width="1498" height="419" alt="image" src="https://github.com/user-attachments/assets/ee6e1a26-5f6b-45a5-bb94-e4d41a945d7c" />
+
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
