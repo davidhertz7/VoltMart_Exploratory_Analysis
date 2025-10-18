@@ -10,9 +10,14 @@ Insights and recommendations are provided on the following key areas:
 - **Product Line Performance:** An assessment of VoltMarts Product Lines and what impact various products had on sales and returns.
 - **Geographical Comparisons:** Analyze and identify strategic market opportunities globally at both regional and country levels.
 - **Loyalty Program Success:** Evaluation of the Loyalty Program contributions on customer retention and sales - Should we keep using it?
-- **KPI Reporting Refund Rates:** Analysis of refund rates and volumes, highlighting differences across products and regions.
+- **KPI Reporting Refund Rates:** Reporting of overall refund rates and volumes - how does this differ across products?
 
   Key Metrics:
+  
+- **Sales:**
+- **AOV:** Average Order Value
+- **Order Count:** Number of order
+
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
