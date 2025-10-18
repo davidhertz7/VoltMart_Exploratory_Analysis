@@ -12,11 +12,12 @@ Insights and recommendations are provided on the following key areas:
 - **Loyalty Program Success:** Evaluation of the Loyalty Program contributions on customer retention and sales - Should we keep using it?
 - **KPI Reporting Refund Rates:** Reporting of overall refund rates and volumes - how does this differ across products?
 
-  Key Metrics:
+
+Key Metrics:
   
 - **Sales:**
 - **AOV:** Average Order Value
-- **Order Count:** Number of order
+- **Order Count:** Number of orders
 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
@@ -29,11 +30,13 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: orders, customers, order_status, geo_lookup, with a total row count of 108,130 records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of four tables: orders, customers, order_status, geo_lookup, with a total row count of 108,130 records. 
+
+
+
+<p align="center">
+<img width="777" height="440" alt="image" src="https://github.com/user-attachments/assets/187745e3-78c5-4e7e-8d18-a3802c4bfc06" />
+</p>
 
 [Entity Relationship Diagram here]
 
