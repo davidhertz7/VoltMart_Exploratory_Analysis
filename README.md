@@ -2,6 +2,9 @@
 <img width="1415" height="450" alt="image" src="https://github.com/user-attachments/assets/b6de3ea7-fb8b-4211-b697-697e6383ba43" />
 
 # Company Background
+Estabilshed in 2018, VoltMart is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. 
+The Company sells mainly products through their website or via its Mobile App. 
+
 
 
 Insights and recommendations are provided on the following key areas:
@@ -33,9 +36,9 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 The companies main database structure as seen below consists of four tables: orders, customers, order_status, geo_lookup, with a total row count of 108,130 records. 
 
 
-
+ 
 <p align="center">
-<img width="777" height="440" alt="image" src="https://github.com/user-attachments/assets/187745e3-78c5-4e7e-8d18-a3802c4bfc06" />
+<img width="685" height="400" alt="image" src="https://github.com/user-attachments/assets/6652ec9b-cede-46d4-ae7b-6210d7d5e73d" />
 </p>
 
 [Entity Relationship Diagram here]
