@@ -3,9 +3,11 @@
 
 # Company Background
 Estabilshed in 2018, VoltMart is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. 
-The Company sells mainly products through their website or via its Mobile App. 
+The Company sells mainly products through their website or via its mobile app. To gain recognition and reach new customers they use a variety of marketing efforts including  Email campaigns, SEO, affiliate links, and Social media.
+Their top-selling brands consists of Apple, Samsung, and Lenovo.
 
-
+The company has substanstial volume of data stored on its sales, marketing efforts, operational/logistic efficiency, product offerings. 
+and loyalty program that potentially.   
 
 Insights and recommendations are provided on the following key areas:
 
