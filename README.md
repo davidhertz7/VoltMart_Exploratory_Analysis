@@ -7,7 +7,7 @@ The Company sells mainly products through their website or via its mobile app. T
 Their top-selling brands consists of Apple, Samsung, and Lenovo.
 
 The company has extensive volume of data stored on its sales, marketing activities, operational/logistic efficiency, product offerings. 
-and loyalty program — the latter potentially being underutilized. This project analyzes and synthesizes this data to uncover key insights that can enhance Voltmart’s commercial performance. I will be parterning with the Head of Operation to deliver actionable insights and recommendations to the companies crossfunctional teams including sales, finance and product.
+and loyalty program — the latter potentially being underutilized. This project analyzes and synthesizes this data to uncover key insights that can enhance Voltmart’s commercial performance. In collaboration with the Head of Operations, I will provide actionable insights and recommendations to cross-functional teams across Sales, Finance, and Product.
 
 Insights and recommendations are provided on the following key areas:
 
