@@ -20,9 +20,9 @@ Insights and recommendations are provided on the following key areas:
 
 Key Metrics:
   
-- **Sales:**
-- **AOV:** 
-- **Order Count:** 
+- **Sales**
+- **AOV** 
+- **Order Count** 
 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
