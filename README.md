@@ -67,7 +67,6 @@ However, the following years showed a downward trend with signaicant drops in 20
 
 
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
