@@ -7,7 +7,7 @@ The Company sells mainly products through their website or via its mobile app. T
 Their top-selling brands consists of Apple, Samsung, and Lenovo.
 
 The company has extensive volume of data stored on its sales, marketing activities, operational/logistic efficiency, product offerings. 
-and loyalty program — the latter potentially being underutilized. This project analyzes and synthesizes this data to uncover key insights that can enhance Voltmart’s commercial performance. In collaboration with the Head of Operations, I will provide actionable insights and recommendations to cross-functional teams across Sales, Finance, and Product.
+and loyalty program — the latter potentially being underutilized. This project analyzes and synthesizes this data in order to uncover key insights that can enhance Voltmart’s commercial performance. In collaboration with the Head of Operations, I will provide actionable insights and recommendations to cross-functional teams across Sales, Finance, and Product.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -60,6 +60,8 @@ The companies main database structure as seen below consists of four tables: ord
 
 
 ### Overview of Findings
+
+During the years 2019 to 2022 the company reached $28M in sales totaling 108K orders and $260 in AOV. 2020 marked the best year across all KPIs 
 
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
