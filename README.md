@@ -63,7 +63,7 @@ The companies main database structure as seen below consists of four tables: ord
 
 Between 2019 and 2022, VoltMart generated $28M in sales from 108K orders, with an average order value (AOV) of $260. The company experienced its strongest year-over-year growth in 2020, with revenue up 163%, order volume up 101%, and AOV increasing by 31%.
 
-However, the following years showed a downward trend with signaicant drops in 2022: sales declined by 46%, order volume by 40%, and AOV by 10%. While part of this decline can be attributed to the normalization of consumer behavior after the pandemic, the following sections explore additional contributing factors and identify key opportunities for improvement.
+However, the following years showed a downward trend with significant drops in 2022: sales declined by 46%, order volume by 40%, and AOV by 10%. While part of this decline can be attributed to the normalization of consumer behavior after the pandemic, the following sections explore additional contributing factors and identify key opportunities for improvement.
 
 
 
@@ -82,7 +82,7 @@ However, the following years showed a downward trend with signaicant drops in 20
 
 
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID.levels. The downward trend continued through October 2022 hitting rock bottom at just $178,275 in monthly revenue, marking a 21-month decline before recovery began.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -111,7 +111,7 @@ However, the following years showed a downward trend with signaicant drops in 20
 
 
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Sales Pea** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
