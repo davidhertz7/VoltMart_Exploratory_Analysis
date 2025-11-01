@@ -82,7 +82,7 @@ However, the following years showed a downward trend with significant drops in 2
 
 
 
-* **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID.levels. The downward trend continued through October 2022 hitting rock bottom at just $178,275 in monthly revenue, marking a 21-month decline before recovery began.
+* **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID.levels. The downward trend continued through October 2022 hitting rock bottom at $178,275 in monthly revenue with only 825 orders, marking a 21-month decline before recovery began.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
