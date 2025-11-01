@@ -3,7 +3,7 @@
 
 # Company Background
 Estabilshed in 2018, VoltMart is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. 
-The Company sells mainly products through their website or via its mobile app. To gain recognition and reach new customers they use a variety of marketing efforts including  Email campaigns, SEO, affiliate links, and Social media.
+The Company sells mainly products through their website or via its mobile app. To gain recognition and reach new customers they use a variety of marketing efforts including Email campaigns, SEO, affiliate links, and Social media.
 Their top-selling brands consists of Apple, Samsung, and Lenovo.
 
 The company has extensive volume of data stored on its sales, marketing activities, operational/logistic efficiency, product offerings. 
@@ -82,12 +82,14 @@ However, the following years showed a downward trend with significant drops in 2
 
 
 
-* **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID levels. The downward trend continued through October 2022 hitting rock bottom at $178,275 in monthly revenue with only 825 orders, marking a 21-month decline before recovering slightly and following normal seasonal holiday patterns.
-
-* **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Consumers need to buy high-cost products in order to sustain lifestyle change or transition into remote work from home.
+* **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID levels. The downward trend continued through October 2022, when VoltMart recorded an all-time low across all key performance indicators — monthly revenue of $178K, just 825 orders, and an average order value of $216. This marked a 21-month decline before a slight recovery and a return to normal seasonal holiday patterns.
+  
+* **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Customer surveys during this period revealed increased purchases of higher-cost products, driven by lifestyle changes and the transition to remote work.
   March 2020 also recorded the largest month-over-month growth in both Revenue and Num. of Orders, **up 55% and 46% respectively**.
   
-* Despite Revenue and AOV been on a steady decline, **year 2021 notes the highest total Num. of Orders 35K**
+* Holiday spikes in Num.of Orders but not as significant in Revenue as last year due to a ~24% Drop Off in AOV
+
+**year 2021 notes the highest total Num. of Orders 35K**
 
 
 
