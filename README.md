@@ -84,11 +84,14 @@ However, the following years showed a downward trend with significant drops in 2
 
 * **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID levels. The downward trend continued through October 2022 hitting rock bottom at $178,275 in monthly revenue with only 825 orders, marking a 21-month decline before recovering slightly and following normal seasonal holiday patterns.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** March 2020 record the largest month-over-month growth in both Revenue (55%) and Num. of Orders (46%)
+
+
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Consumers need to buy high-cost products in order to sustain lifestyle change or transition into remote work from home.
+  March 2020 also recorded the largest month-over-month growth in both Revenue (55%) and Num. of Orders (46%)
 ### Seasonality
 <p align="center">
 <img width="762" height="295" alt="image" src="https://github.com/user-attachments/assets/82c1dd04-9ce9-41d1-845b-5cf2ceec32b8" />
