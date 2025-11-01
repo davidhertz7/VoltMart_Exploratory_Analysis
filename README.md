@@ -87,7 +87,9 @@ However, the following years showed a downward trend with significant drops in 2
 * **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Consumers need to buy high-cost products in order to sustain lifestyle change or transition into remote work from home.
   March 2020 also recorded the largest month-over-month growth in both Revenue (55%) and Num. of Orders (46%)
   
-* **Main insight 2.** March 2020 record the largest month-over-month growth in both Revenue (55%) and Num. of Orders (46%)
+* Despite Revenue and AOV been on a steady decline, **year 2021 notes the highest total Num. of Orders 35K**
+
+
 
 
   
