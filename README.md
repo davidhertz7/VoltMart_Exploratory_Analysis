@@ -2,7 +2,7 @@
 <img width="1415" height="450" alt="image" src="https://github.com/user-attachments/assets/b6de3ea7-fb8b-4211-b697-697e6383ba43" />
 
 # Company Background
-Estabilshed in 2018, VoltMart is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. 
+Estabilshed in 2018, **VoltMart is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. 
 The Company sells mainly products through their website or via its mobile app. To gain recognition and reach new customers they use a variety of marketing efforts including Email campaigns, SEO, affiliate links, and Social media.
 Their top-selling brands consists of Apple, Samsung, and Lenovo.
 
