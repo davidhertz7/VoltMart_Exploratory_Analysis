@@ -88,7 +88,7 @@ However, the following years showed a downward trend with significant drops in 2
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Consumer need to buy high cost products to sustain lifestyle change or working from home.
+* **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Consumers need to buy high-cost products in order to sustain lifestyle change or transition into remote work from home.
 ### Seasonality
 <p align="center">
 <img width="762" height="295" alt="image" src="https://github.com/user-attachments/assets/82c1dd04-9ce9-41d1-845b-5cf2ceec32b8" />
