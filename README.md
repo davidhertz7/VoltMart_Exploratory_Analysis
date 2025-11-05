@@ -84,10 +84,10 @@ However, the following years showed a downward trend with significant drops in 2
 
 * **Sales more than doubled in early 2020, and reached their peak in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue.** Sales have plateaued ever since, with notable dips in February 2021 and February 2022, nearing pre-COVID levels.
 
-* The downward trend continued through October 2022, when VoltMart recorded an all-time low across all key performance indicators — monthly revenue of $178K, just 825 orders, and an average order value of $216. This marked a **21-month decline before a slight recovery and a return to normal seasonal holiday patterns**.
+* The downward trend continued through October 2022, when VoltMart recorded an all-time low across all key performance indicators — monthly revenue of $178K, just 825 orders, and an average order value of $216. This marked a **22-month decline before a slight recovery and a return to normal seasonal holiday patterns**.
   
 * **AOV saw a significant spike in march 2020 up 27% compared to march 2019.** Customer surveys during this period revealed increased purchases of higher-cost products, driven by lifestyle changes and the transition to remote work.
-  March 2020 also recorded the largest month-over-month growth in both Revenue and Num. of Orders, **up 55% and 46% respectively**.
+  March 2020 also recorded the largest month-over-month growth in both revenue and num. of Orders, **up 55% and 46% respectively**.
   
 * Holiday spikes in Num.of Orders but not as significant in Revenue as last year due to a ~24% Drop Off in AOV
 
