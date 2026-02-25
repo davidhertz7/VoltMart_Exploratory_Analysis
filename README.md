@@ -97,7 +97,7 @@ However, the following years showed a downward trend with significant drops in 2
 
 
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
   
 
 ### Seasonality
