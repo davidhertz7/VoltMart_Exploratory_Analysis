@@ -66,7 +66,7 @@ Between 2019 and 2022, VoltMart generated $28M in sales from 108K orders, with a
 However, the following years showed a downward trend with significant drops in 2022: sales declined by 46%, order volume by 40%, and AOV by 10%. While part of this decline can be attributed to the normalization of consumer behavior after the pandemic, the following sections explore additional contributing factors and identify key opportunities for improvement.
 
 
-
+ poiuytdfsda<zdfgyuiop
 
 
 
@@ -105,9 +105,9 @@ However, the following years showed a downward trend with significant drops in 2
 <img width="762" height="295" alt="image" src="https://github.com/user-attachments/assets/82c1dd04-9ce9-41d1-845b-5cf2ceec32b8" />
 </p>
 
-* **Main insight 1.** Across the period 2019 to 2022 the overall worst performing months are Jan, Feb and October. 
+* **Main insight 1.** Across the period 2019 to 2022 the overall worst performing months are Jan, Feb and October especially in the north star metrics revenue and num. of orders that went down with more then -25%.  
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** VoltMart sees an holiday surge each year in November (18%) And December (23%). Further more March makes a strong bounceback in sales 18% MoM, after a steap downward tend in February.  
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
