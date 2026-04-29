@@ -109,7 +109,7 @@ However, the following years showed a downward trend with significant drops in 2
   
 * VoltMart sees an **holiday surge each year in November (18%) And December (23%)**. Further more March makes a strong **bounceback in sales 18% MoM**, after a steap downward trend occur in February.  
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* 
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
