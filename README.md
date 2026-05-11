@@ -109,7 +109,9 @@ However, the following years showed a downward trend with significant drops in 2
   
 * VoltMart sees an **holiday surge each year in November (18%) And December (23%)**. Further more March makes a strong **bounceback in sales 18% MoM**, after a steap downward trend occur in February.  
   
-* 
+* Sep customers tend to buy more expensive products. **4% growth AOV highest by all months**. Were Nov is the worst month -4%. Look further into if there are any special offers or marketing strategy around this period that can be useful to boost sales in worse perfoming periods of the year. 
+![Uploading image.png…]()
+
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
