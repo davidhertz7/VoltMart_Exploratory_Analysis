@@ -113,7 +113,7 @@ However, the following years showed a downward trend with significant drops in 2
 ![Uploading image.png…]()
 
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* There have always been an consistent dip in revenue MoM from sept to oct but not as significant as in the year of 2022 (-55%). Main drivers behind this dip are 27in gaming monitor, and high cost apple products.
 
 
 ### Product Performance
