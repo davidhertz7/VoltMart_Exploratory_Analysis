@@ -66,7 +66,7 @@ Between 2019 and 2022, VoltMart generated $28M in sales from 108K orders, with a
 However, the following years showed a downward trend with significant drops in 2022: sales declined by 46%, order volume by 40%, and AOV by 10%. While part of this decline can be attributed to the normalization of consumer behavior after the pandemic, the following sections explore additional contributing factors and identify key opportunities for improvement.
 
 
- poiuytdfsda<zdfgyuiop
+
 
 
 
