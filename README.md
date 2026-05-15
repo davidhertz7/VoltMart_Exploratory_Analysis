@@ -124,7 +124,7 @@ However, the following years showed a downward trend with significant drops in 2
 
 
 
-* **Sales Pea** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **85% of the companies revenue comes from just 3 products ($23M)**, Gaming Monitor, Macbook Air, and Apple Airpods. These 3 products  
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
