@@ -124,7 +124,9 @@ However, the following years showed a downward trend with significant drops in 2
 
 
 
-* **85% of the company's revenue comes from just 3 products ($23M) totaling 75K of the company's orders (70%)**, Gaming Monitor, Macbook Air, and Apple Airpods. 
+* **Three products — Gaming Monitor, MacBook Air, and Apple AirPods — account for 85% of total company revenue ($23M) and represent 75K orders, or 70% of all company orders**.
+MacBook Air has the highest average order value (AOV) at $1,588, meaning even a modest increase in order volume could drive a significant uplift in total revenue.
+  
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
