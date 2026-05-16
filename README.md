@@ -134,7 +134,7 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
  
 * In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Heavily reliant on apple brands.....
 
 [Visualization specific to category 2]
 
