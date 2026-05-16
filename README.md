@@ -102,7 +102,7 @@ However, the following years showed a downward trend with significant drops in 2
 
 ### Seasonality
 <p align="center">
-<img width="762" height="295" alt="image" src="https://github.com/user-attachments/assets/82c1dd04-9ce9-41d1-845b-5cf2ceec32b8" />
+<img width="1332" height="301" alt="image" src="https://github.com/user-attachments/assets/29945ee4-1398-4c6f-b75a-ed62b9efc228" />
 </p>
 
 * Across the period 2019 to 2022 the overall worst performing months are Jan, Feb and October especially in the north star metrics revenue and num. of orders that **went down with more then -25%.** 
