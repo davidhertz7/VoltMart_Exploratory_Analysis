@@ -128,7 +128,7 @@ However, the following years showed a downward trend with significant drops in 2
 MacBook Air has the highest average order value (AOV) at $1,588, meaning even a modest increase in order volume could drive a significant uplift in total revenue.
   
   
-* From December 2019 to its peak in December 2020, **MacBook revenue grew significantly with a 405% YoY increase**; however, the following year it went down execpt from some seasoanl spikes. For Macbook Air, the drop is mostly contained to the NA region and direct traffic marketing channel - may indicate a shift in trends and competitors there
+* From December 2019 to its peak in December 2020, **MacBook revenue grew significantly with a 405% YoY increase**; however, the following year it went down execpt from some seasoanl spikes. For Macbook Air, the drop is mostly contained to the **NA region and direct traffic marketing channel** - may indicate a shift in trends and competitors there
 
 
  
