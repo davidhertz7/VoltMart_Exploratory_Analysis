@@ -150,7 +150,8 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* In japan($393) and Netherlands($289) people purchase on average the most expensive products. Lowest AOV Austrailia($204) and Spain($223).
+
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
