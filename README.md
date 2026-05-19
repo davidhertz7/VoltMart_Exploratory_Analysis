@@ -61,7 +61,7 @@ The companies main database structure as seen below consists of four tables: ord
 
 ### Overview of Findings
 
-Between 2019 and 2022, VoltMart generated $28M in sales from 108K orders, with an average order value (AOV) of $260 - ranging in monthly sales from $178k to $1.2M. The company experienced its strongest year-over-year growth in 2020, with revenue up 163%, order volume up 101%, and AOV increasing by 31%. Monthly sales ranges from 
+Between 2019 and 2022, VoltMart generated $28M in sales from 108K orders, with an average order value (AOV) of $260 - ranging in monthly sales from $178k to $1.2M. The company experienced its strongest year-over-year growth in 2020, with revenue up 163%, order volume up 101%, and AOV increasing by 31%. 
 
 However, the following years showed a downward trend with significant drops in 2022: sales declined by 46%, order volume by 40%, and AOV by 10%. While part of this decline can be attributed to the normalization of consumer behavior after the pandemic, the following sections explore additional contributing factors and identify key opportunities for improvement.
 
