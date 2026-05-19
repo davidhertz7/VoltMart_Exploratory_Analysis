@@ -157,7 +157,6 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 * **44 countries make each less than $1000 in revenue From 2019 to 2020**, total revenue for all these countries are just 16K, AOV  $155, and only 108 in total orders. Look into maybe reallocate Marketing efforts from these countries to more profitable countries and regions.
 
 
-[Visualization specific to category 3]
 
 
 ### Loyalty Program
@@ -172,7 +171,6 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 4]
 
 
 ### Refund Rates
@@ -188,7 +186,6 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 4]
 
 
 
