@@ -169,7 +169,8 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Loyalty members shown more resiliance after the peak covid years. All KPIs still considerly higher compared to pre-pendemic. 5x higher revenue and number of. Orders. AOV up $40.
+
 
 
 
