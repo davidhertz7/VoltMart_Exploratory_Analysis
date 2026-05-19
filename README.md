@@ -137,7 +137,6 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 * VoltMart are heavintly dependant on the apple brands products, **the brand is responisble for 51% of the total revenue across the whole period**. Its then suprinsgly to see Apple Iphone being the product who performs amongst the worst in the key metrics num. of orders(288) and revenue($213K), it only makes up for less then 1 percent of the company's shares in both metrics.
    
 
-[Visualization specific to category 2]
 
 
 ### Geographical Comparisons
