@@ -149,8 +149,9 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 * NA and EMEA stands for 80% of the companys total revenue from 2019 to 2022, Top country US make up for about 45% of total revenue. Primary contributor to NAs dominance in both Sales Revenue( and order count.
 
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
+* All regions exhibit similar dips in 2021 and 2022, indicating global / macro trend. NA responsible for the big dip in Feb 2021 - 300K of the the total dip 550K
+
+
 * In japan($393) and Netherlands($289) people purchase on average the most expensive products. Lowest AOV Austrailia($204) and Spain($223).
 
   
