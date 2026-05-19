@@ -163,8 +163,8 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 <img width="950" height="693" alt="image" src="https://github.com/user-attachments/assets/ee35f268-9bd5-4f38-99fd-a8388a3fbd01" />
 
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
+* Total Revenue across the years 2019 to 2022 for non-loyalty members were $17M in total with an average yearly sales revenue of $4.2M and AOV of $275 for loyalty members $11M in total with an average yearly sales revenue of $2.7M and AOV of $240. 
+
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
