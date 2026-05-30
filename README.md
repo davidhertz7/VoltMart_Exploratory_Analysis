@@ -165,11 +165,11 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 
 * Total Revenue across the years 2019 to 2022 for non-loyalty members were $17M in total with an average yearly sales revenue of $4.2M and AOV of $275 for loyalty members $11M in total with an average yearly sales revenue of $2.7M and AOV of $240. 
 
-* Non-Loyals outperformed Loyalty Members the first year when it was introduced , 2019 the share of annual revenue was 90% to 10%. But most recent years there's have been a mayor shift in share, Loyalty members passes Non-Loyals 55% to 45%. 
+* Non-Loyals outperformed Loyalty Members the first year when it was introduced , **2019 the share of annual revenue was 90% to 10%**. But most recent years there's have been a mayor shift in share, **Loyalty members passes Non-Loyals 55% to 45%**. 
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* Loyalty members shown more resiliance after the peak covid years. All KPIs still considerly higher compared to pre-pendemic. 5x higher revenue and number of. Orders. AOV up $40.
+* Loyalty members shown more resiliance after the peak covid years. All KPIs still considerly higher compared to pre-pendemic. 5x higher revenue and number of. Orders. AOV up $40. Non-Loyal down in both AOV($20) and number of. orders (4K).
 
 
 
