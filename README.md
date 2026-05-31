@@ -2,7 +2,7 @@
 <img width="1415" height="450" alt="image" src="https://github.com/user-attachments/assets/b6de3ea7-fb8b-4211-b697-697e6383ba43" />
 
 # Company Background
-Estabilshed in 2018, **VoltMart is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. 
+Established in 2018, **VoltMart is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. 
 The Company sells mainly products through their website or via its mobile app. To gain recognition and reach new customers they use a variety of marketing efforts including Email campaigns, SEO, affiliate links, and Social media.
 Their top-selling brands consist of Apple, Samsung, and Lenovo.
 
@@ -105,15 +105,15 @@ However, the following years showed a downward trend with significant drops in 2
 <img width="1332" height="345" alt="image" src="https://github.com/user-attachments/assets/29945ee4-1398-4c6f-b75a-ed62b9efc228" />
 </p>
 
-* Across the period 2019 to 2022 the overall worst performing months are Jan, Feb and October especially in the north star metrics revenue and num. of orders that **went down with more then -25%.** 
+* Across the period 2019 to 2022 the overall worst-performing months are Jan, Feb and October especially in the north star metrics revenue and num. of orders that **went down with more then -25%.** 
   
-* VoltMart sees an **holiday surge each year in November (18%) And December (23%)**. Further more March makes a strong **bounceback in sales 18% MoM**, after a steap downward trend occur in February.  
+* VoltMart sees an **holiday surge each year in November (18%) And December (23%)**. Furthermore, March makes a strong **bounceback in sales 18% MoM**, after a steap downward trend occur in February.  
   
-* Sep customers tend to buy more expensive products. **4% growth AOV highest by all months**. Were Nov is the worst month -4%. Look further into if there are any special offers or marketing strategy around this period that can be useful to boost sales in worse perfoming periods of the year. 
+* Sep customers tend to buy more expensive products. **4% growth AOV highest by all months**. Were Nov is the worst month -4%. Look further into if there are any special offers or marketing strategy around this period that can be useful to boost sales in worse performing periods of the year. 
 
 
   
-* There have always been an consistent dip in revenue MoM from sept to oct but not as significant as in the year of 2022 (-55%). Main drivers behind this dip are the products 27in gaming monitor, and high cost apple products.
+* There have always been a consistent dip in revenue MoM from Sept to Oct but not as significant as in the year of 2022 (-55%). Main drivers behind this dip are the products 27in gaming monitor, and high cost apple products.
 
 
 ### Product Performance
@@ -134,7 +134,7 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 * In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
 
   
-* VoltMart are heavintly dependant on the apple brands products, **the brand is responisble for 51% of the total revenue across the whole period**. Its then suprinsgly to see Apple Iphone being the product who performs amongst the worst in the key metrics num. of orders(288) and revenue($213K), it only makes up for less then 1 percent of the company's shares in both metrics.
+* VoltMart are heavintly dependant on the apple brands products, **the brand is responsible for 51% of the total revenue across the whole period**. It's then surprising to see Apple iPhone being the product that performs amongst the worst in the key metrics num. of orders(288) and revenue($213K), it only makes up for less than 1 percent of the company's shares in both metrics. Apple iPhone shows untapped potential with the third highest AOV of $741 it can make a real impact on revenue only from boosting up sales a bit.
    
 
 
@@ -145,16 +145,16 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 
 
 
-* NA and EMEA stands for 80% of the companys total revenue from 2019 to 2022, Top country US make up for about 45% of total revenue. Primary contributor to NAs dominance in both Sales Revenue and order count.
-
+* NA and EMEA stand for 80% of the company's total revenue from 2019 to 2022. Top country US make up for about 45% of total revenue. Primary contributor to NA's dominance in both Sales Revenue and order count.
+q  A    Q  aa  aq    §  
   
-* All regions exhibit similar dips in 2021 and 2022, indicating global / macro trend. NA responsible for the big dip in Feb 2021 - 300K of the the total dip 550K
+* All regions exhibit similar dips in 2021 and 2022, indicating a global/macro trend. NA is responsible for the big dip in Feb 2021 - 300K of the total dip 550K
 
 
 * In japan($393) and Netherlands($289) people purchase on average the most expensive products. Lowest AOV in Austrailia($204) and Spain($223).
 
   
-* **44 countries make each less than $1000 in revenue From 2019 to 2020**, total revenue for all these countries are just 16K, AOV  $155, and only 108 in total orders. Look into maybe reallocate Marketing efforts from these countries to more profitable countries and regions.
+* **44 countries make each less than $1000 in revenue From 2019 to 2020**, total revenue for all these countries are just 16K, AOV  $155, and only 108 in total orders. Look into maybe reallocating marketing efforts from these countries to more profitable countries and regions.
 
 
 
