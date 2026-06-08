@@ -167,7 +167,6 @@ q  A    Q  aa  aq    §
 
 * Non-Loyals outperformed Loyalty Members the first year when it was introduced , **2019 the share of annual revenue was 90% to 10%**. But most recent years there's have been a mayor shift in share, **Loyalty members passes Non-Loyals 55% to 45%**. 
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * Loyalty members shown more resiliance after the peak covid years. All KPIs still considerly higher compared to pre-pendemic. 5x higher revenue and number of. Orders. AOV up $40. Non-Loyal down in both AOV($20) and number of. orders (4K).
 
@@ -177,11 +176,15 @@ q  A    Q  aa  aq    §
 ### Refund Rates
 <img width="1495" height="420" alt="image" src="https://github.com/user-attachments/assets/7c409e74-880f-4ef2-b58e-bc1aaeee16de" />
 
+* Overall refund tremds: Out of 108K total orders 5379(5,9%) was refunded, totaling $2,2M in refunded sales. 2021 recorded the highest share out of the total refund amounts 60% of refunds happens this year.
 
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+* Thinkpad(11.7%), Macbook(11.4%), and Apple Iphone(7.6%) had the highest refund rates. Macbook Air($746K), 27in 4K gaming monitor($642K), Apple Airpod($429K), and ThinkPad Laptop($382K) recorded the highest total refunded amounts.
+
+
+* Apple products have the highest share of total refunds out of all brands 58%
+
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
