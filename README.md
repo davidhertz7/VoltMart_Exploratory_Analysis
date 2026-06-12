@@ -186,13 +186,6 @@ q  A    Q  aa  aq    §
 * Apple products have the highest share of total refunds out of all brands 58% with the highest refund amounts out of all brands $1,1M
 
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-
-
-
 # Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
