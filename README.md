@@ -194,7 +194,7 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
-* Reallocate Marketing Spend from Low-Performing Markets: The 44 countries generating less than $1,000 in revenue collectively contribute minimal business impact. Redirecting budget toward higher-performing countries is likely to generate a stronger return on investment.
+* Reallocate Marketing Spend from Low-Performing Markets: The 44 countries generating less than $1,000 in revenue collectively contribute minimal business impact. Redirecting budget toward higher-performing countries is likely to generate a stronger ROI.
   
 * Bundle the Apple Ecosystem: Position iPhones alongside MacBooks, AirPods, and accessories to encourage multi-product purchases. Customers invested in the Apple ecosystem are often more likely to purchase additional Apple devices when presented with integrated value propositions.
   
