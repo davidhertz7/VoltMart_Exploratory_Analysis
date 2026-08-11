@@ -189,7 +189,7 @@ q  A    Q  aa  aq    §
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* Customer Reactivation Campaigns: Target customers acquired during 2020–2021 who have not purchased recently with personalized offers, product recommendations, and upgrade promotions. Re-engaging existing customers is often more cost-effective than acquiring new ones.
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
