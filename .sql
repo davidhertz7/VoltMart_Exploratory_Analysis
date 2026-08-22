@@ -1,12 +1,16 @@
--- Business SQL
+-- Business SQL - Additional Stakeholder Questions
 
 
 -- 1) What were the order counts, sales, and AOV for MacBooks sold in North America for each quarter across all years? 
 
+-- Calculating the metrics 
+-- Joining the tables together orders to the customers to the geo_lookup table 
+-- Filtering the table for Macbook orders from the NA Region
+-- Grouping and rolling everything up to a quarterly level sorted in ascending order
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarterly,
   COUNT(DISTINCT orders.id) AS order_count,
   ROUND(SUM(orders.usd_price),2) AS sales,
-  ROUND(AVG(orders.usd_price),2) AS aov
+  ROUND(AVG(orders.ustd_price),2) AS aov
 FROM core.orders
 LEFT JOIN core.customers_orig
   ON orders.customer_id = customers_orig.id
@@ -19,8 +23,10 @@ ORDER BY 1 DESC;
 
 
 
---Bonus
+
 --What is the average quarterly order count and total sales for MacBooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”
+
+
 WITH quartely_metrics AS (
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarterly,
   COUNT(DISTINCT orders.id) AS order_count,
