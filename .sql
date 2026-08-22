@@ -6,7 +6,7 @@
 -- Calculating the metrics and converting the date to show quarters
 -- Joining the tables together orders to the customers_orig to the geo_lookup table 
 -- Filtering the table for Macbook orders from the NA Region
--- Grouping and rolling everything up to a quarterly level sorted in ascending order
+-- Grouping and sorting by quarter from most recent to oldest 
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarter,
   COUNT(DISTINCT orders.id) AS order_count,
   ROUND(SUM(orders.usd_price),2) AS sales,
@@ -18,7 +18,7 @@ LEFT JOIN core.geo_lookup
   ON customers_orig.country_code = geo_lookup.country_code
 WHERE lower(region) = 'na' AND lower(product_name) LIKE '%macbook%'
 GROUP BY 1
-ORDER BY 1;
+ORDER BY 1 DESC;
 
 
 
