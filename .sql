@@ -10,7 +10,7 @@
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarter,
   COUNT(DISTINCT orders.id) AS order_count,
   ROUND(SUM(orders.usd_price),2) AS sales,
-  ROUND(AVG(orders.ustd_price),2) AS aov
+  ROUND(AVG(orders.usd_price),2) AS aov
 FROM core.orders
 LEFT JOIN core.customers_orig
   ON orders.customer_id = customers_orig.id
