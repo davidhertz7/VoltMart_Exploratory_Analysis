@@ -4,7 +4,7 @@
 -- 1) What were the order counts, sales, and AOV for MacBooks sold in North America for each quarter across all years? 
 
 -- Calculating the metrics and converting the date to show quarters
--- Joining the tables together orders to the customers to the geo_lookup table 
+-- Joining the tables together orders to the customers_orig to the geo_lookup table 
 -- Filtering the table for Macbook orders from the NA Region
 -- Grouping and rolling everything up to a quarterly level sorted in ascending order
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarter,
@@ -18,7 +18,7 @@ LEFT JOIN core.geo_lookup
   ON customers_orig.country_code = geo_lookup.country_code
 WHERE lower(region) = 'na' AND lower(product_name) LIKE '%macbook%'
 GROUP BY 1
-ORDER BY 1 DESC;
+ORDER BY 1;
 
 
 
