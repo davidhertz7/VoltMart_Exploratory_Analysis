@@ -3,11 +3,11 @@
 
 -- 1) What were the order counts, sales, and AOV for MacBooks sold in North America for each quarter across all years? 
 
--- Calculating the metrics 
+-- Calculating the metrics and converting the date to show quarters
 -- Joining the tables together orders to the customers to the geo_lookup table 
 -- Filtering the table for Macbook orders from the NA Region
 -- Grouping and rolling everything up to a quarterly level sorted in ascending order
-SELECT DATE_TRUNC(purchase_ts, quarter) AS quarterly,
+SELECT DATE_TRUNC(purchase_ts, quarter) AS quarter,
   COUNT(DISTINCT orders.id) AS order_count,
   ROUND(SUM(orders.usd_price),2) AS sales,
   ROUND(AVG(orders.ustd_price),2) AS aov
