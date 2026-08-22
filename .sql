@@ -24,10 +24,11 @@ ORDER BY 1 DESC;
 
 
 
---What is the average quarterly order count and total sales for MacBooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”
+-- What is the average quarterly order count and total sales for MacBooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”
 
-
-WITH quartely_metrics AS (
+-- Wrapping the previous qeury in a CTE
+-- Calculating the overall average quarterly order count and total sales
+WITH quarterly_metrics AS (
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarterly,
   COUNT(DISTINCT orders.id) AS order_count,
   ROUND(SUM(usd_price),2) AS total_sales
@@ -42,7 +43,7 @@ ORDER BY 1
 )
 SELECT ROUND(AVG(order_count),2) AS avg_quarter_order_count,
   ROUND(AVG(total_sales),2) AS avg_quarter_sales
-FROM quartely_metrics;
+FROM quarterly_metrics;
 
 
 
