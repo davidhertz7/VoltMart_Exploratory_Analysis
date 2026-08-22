@@ -30,7 +30,7 @@ LEFT JOIN core.customers
   ON orders.customer_id = customers.id
 LEFT JOIN core.geo_lookup
   ON customers.country_code = geo_lookup.country_code
-WHERE LOWER(region) = 'na' AND LOWER(product_name) LIKE '%macbook%'
+WHERE lower(region) = 'na' AND lower(product_name) LIKE '%macbook%'
 GROUP BY 1
 ORDER BY 1
 )
