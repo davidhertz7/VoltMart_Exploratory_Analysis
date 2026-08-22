@@ -95,7 +95,7 @@ ORDER BY 3 DESC;
 
 
 
--- Bonus. What was the refund rate and refund count for each product per year? How would you interpret these rates in English?
+--  What was the refund rate and refund count for each product per year? 
 SELECT EXTRACT(year from order_status.purchase_ts) AS purchase_year,
   CASE WHEN product_name ='27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name  END AS cleaned_product_name,
   SUM(CASE WHEN order_status.refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refund_count,
