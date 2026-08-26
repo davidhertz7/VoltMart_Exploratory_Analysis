@@ -26,7 +26,7 @@ ORDER BY 1 DESC;
 
 -- What is the average quarterly order count and total sales for MacBooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”
 
--- Wrapping the previous qeury in a CTE
+-- Wrapping previous qeury in a CTE
 -- Calculating the overall average quarterly order count and total sales
 WITH quarterly_metrics AS (
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarterly,
@@ -49,7 +49,10 @@ FROM quarterly_metrics;
 
 
 -- 2) For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
-
+-- Join order_status to orders to customers to the geo_lookup table
+-- Filter for products purchased in 2022 on the website or products purchased on the mobile app in any year
+-- Calculating the average time to deliver
+-- Grouping by the region and sorting by the region with the average highest time to the deliver 
 SELECT geo_lookup.region,
   AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) AS avg_time_to_deliver
 FROM core.order_status
