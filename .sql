@@ -94,7 +94,7 @@ ORDER BY 2 DESC;
 
 
 
---3) What was the refund rate and refund count for each product overall? 
+--3)  a) What was the refund rate and refund count for each product overall? 
 -- Join orders to the order_status table
 -- Calculate refund count and refund rate
 -- Cleaned the product name column 
@@ -112,7 +112,7 @@ ORDER BY 3 DESC;
 
 
 
---  What was the refund rate and refund count for each product per year? 
+--  b) What was the refund rate and refund count for each product per year? 
 -- Join orders to the order status table
 -- Transform the date to show years
 -- Cleaned the product name column 
@@ -136,7 +136,13 @@ FROM core.orders;
 
 
 -- 4) Within each region, what is the most popular product? 
-
+-- Join orders to customers and to the geo_lookup table
+-- Cleaned the product name column
+-- Calculating the total order count for each product within each region
+-- Wrapping the qeury in an CTE to make further calculations
+-- Ranking products within each region based on total orders
+-- Filtering for the most popular product in each region
+-- Sorting the results by total orders from highest to lowest
 WITH sales_by_product AS (
 SELECT geo_lookup.region AS region,
   CASE WHEN product_name ='27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name  END AS cleaned_product_name,
@@ -144,7 +150,7 @@ SELECT geo_lookup.region AS region,
 FROM core.orders
 LEFT JOIN core.customers_orig
   ON orders.customer_id = customers_orig.id
-LEFT JOIN core.geo_lookup
+LEFT JOIN core.geo_loo--kup
   ON customers_orig.country_code = geo_lookup.country_code
 GROUP BY 1,2
 )
@@ -159,7 +165,9 @@ ORDER BY 3 DESC;
 
 
 -- 5) How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers?
-
+-- Join customers to orders and to the order_status table
+-- Calculate the average time from account creation to purchase in days and months
+-- Grouping the results by loyalty program status
 SELECT customers_orig.loyalty_program,
   ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers_orig.created_on, day)),1) AS avg_days_to_purchase,
   ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers_orig.created_on, month)),1) AS avg_month_to_purchase
