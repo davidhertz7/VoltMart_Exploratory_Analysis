@@ -26,7 +26,7 @@ ORDER BY 1 DESC;
 
 -- What is the average quarterly order count and total sales for MacBooks sold in North America? (i.e. “For North America Macbooks, average of X units sold per quarter and Y in dollar sales per quarter”
 
--- Wrapping previous qeury in a CTE
+-- Wrapping previous query in a CTE
 -- Calculating the overall average quarterly order count and total sales
 WITH quarterly_metrics AS (
 SELECT DATE_TRUNC(purchase_ts, quarter) AS quarterly,
@@ -52,7 +52,7 @@ FROM quarterly_metrics;
 -- Join order_status to orders to customers to the geo_lookup table
 -- Filter for products purchased in 2022 on the website or products purchased on the mobile app in any year
 -- Calculating the average time to deliver
--- Grouping by the region and sorting by the region with the average highest time to the deliver 
+-- Grouping by the region and sorting by the region starting from the highest time to deliver 
 SELECT geo_lookup.region,
   AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) AS avg_time_to_deliver
 FROM core.order_status
@@ -72,9 +72,12 @@ ORDER BY 2 DESC;
 SELECT DISTINCT purchase_platform
 FROM core.orders;
 
--- BONUS
--- Rewrite this query for website purchases made in 2022 or Samsung purchases made in 2021, expressing time to deliver in weeks instead of days.
+-- For website purchases made in 2022 or Samsung purchases made in 2021, expressing time to deliver in weeks instead of days.
 
+-- Join order_status to orders to customers to the geo_lookup table
+-- Filter for purchases made in 2022 or Samsung purchases made in 2021
+-- Calculating the average time to deliver
+-- Grouping by the region and sorting by the region starting from the highest time to deliver 
 SELECT geo_lookup.region,
   AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, week)) AS avg_time_to_deliver
 FROM core.order_status
@@ -92,7 +95,11 @@ ORDER BY 2 DESC;
 
 
 --3) What was the refund rate and refund count for each product overall? 
-
+-- Join orders to the order_status table
+-- Calculate refund count and refund rate
+-- Cleaned the product name column 
+-- Rolling up the results to a product level
+-- Sorting the results with products that had the highest refund rate at the top
 SELECT CASE WHEN product_name ='27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name  END AS cleaned_product_name,
   SUM(CASE WHEN order_status.refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refund_count,
   ROUND(AVG(CASE WHEN order_status.refund_ts IS NOT NULL THEN 1 ELSE 0 END)*100,2) AS refund_rate
@@ -106,6 +113,11 @@ ORDER BY 3 DESC;
 
 
 --  What was the refund rate and refund count for each product per year? 
+-- Join orders to the order status table
+-- Transform the date to show years
+-- Cleaned the product name column 
+-- Rolling up the results to a yearly product level
+-- Sorting the results with products that had the highest refund rate at the top
 SELECT EXTRACT(year from order_status.purchase_ts) AS purchase_year,
   CASE WHEN product_name ='27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name  END AS cleaned_product_name,
   SUM(CASE WHEN order_status.refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refund_count,
