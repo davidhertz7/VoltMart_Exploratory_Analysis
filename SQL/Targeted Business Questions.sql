@@ -178,19 +178,3 @@ LEFT JOIN core.order_status
   ON orders.id = order_status.order_id
 GROUP BY 1;
 
-
-
-
---Bonus: Update this query to split the time to purchase per loyalty program, per purchase platform. Return the number of records to benchmark the severity of nulls
-
-SELECT orders.purchase_platform,
-  customers_orig.loyalty_program,
-  ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers_orig.created_on, day)),1) AS avg_days_to_purchase,
-  ROUND(AVG(DATE_DIFF(orders.purchase_ts, customers_orig.created_on, month)),1) AS avg_month_to_purchase,
-  COUNT(*) AS row_count
-FROM core.customers_orig
-LEFT JOIN core.orders 
-  ON customers_orig.id = orders.customer_id
-LEFT JOIN core.order_status
-  ON orders.id = order_status.order_id
-GROUP BY 1,2;
