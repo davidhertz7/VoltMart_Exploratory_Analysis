@@ -130,7 +130,7 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 * From December 2019 to its peak in December 2020, **MacBook revenue grew significantly with a 405% YoY increase**; however, the following years the curve went down with the steapest decline in Feb 2021 - this drop was mostly contained to the **NA region(-$70K) and the direct traffic marketing channel(-$120K)** - may indicate a shift in trends and competitors there
 
 
-* In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
+* In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods. Airpods ranks as the most popular product across all regions when it comes to number of orders placed.
 
   
 * VoltMart are heavintly dependant on the apple brands products, **the brand is responsible for 51% of the total revenue across the whole period**. It's then surprising to see Apple iPhone being the product that performs amongst the worst in the key metrics num. of orders(288) and revenue($213K), it only makes up for less than 1 percent of the company's shares in both metrics. Apple iPhone shows untapped potential with the third highest AOV of $741 it can make a real impact on revenue only from boosting up sales a bit.
