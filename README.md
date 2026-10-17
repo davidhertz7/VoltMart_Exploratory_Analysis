@@ -175,7 +175,7 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
 ### Refund Rates
 <img width="1495" height="420" alt="image" src="https://github.com/user-attachments/assets/7c409e74-880f-4ef2-b58e-bc1aaeee16de" />
 
-* Overall refund tremds: Out of 108K total orders 5379(5,9%) was refunded, totaling $2,2M in refunded sales. 2021 recorded the highest share out of the total refund amounts 60% of refunds happens this year.
+* Overall refund trends: Out of 108K total orders 5379(5,9%) was refunded, totaling $2,2M in refunded sales. 2021 recorded the highest share out of the total refund amounts 60% of refunds happens this year.
 
 
 
