@@ -191,7 +191,7 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 * Customer Reactivation Campaigns: Target customers acquired during 2020–2021 who have not purchased recently with personalized offers, product recommendations, and upgrade promotions. Re-engaging existing customers is often more cost-effective than acquiring new ones.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.
   
 * Reallocate Marketing Spend from Low-Performing Markets: The 44 countries generating less than $1,000 in revenue collectively contribute minimal business impact. Redirecting budget toward higher-performing countries is likely to generate a stronger ROI.
   
