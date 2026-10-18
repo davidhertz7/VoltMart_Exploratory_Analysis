@@ -169,7 +169,7 @@ MacBook Air has the highest average order value (AOV) at $1,588, meaning even a 
   
 * Loyalty members shown more resiliance after the peak covid years. All KPIs still considerly higher compared to pre-pendemic. 5x higher revenue and number of. Orders. AOV up $40. Non-Loyal down in both AOV($20) and number of. orders (4K).
 
-* **Loyal members make their first purchase 30.1% faster than non-loyal customers.** On average, loyal members place their first order 49.3 days after account creation, compared with 70.5 days for non-loyal customers — a difference of 21.2 days.
+* **Loyal members make their first purchase 30.1% faster than non-loyal customers.** On average, loyal members place their first order 49.3 days after account creation, compared with 70.5 days for non-loyal customers — **a difference of 21.2 days.**
 
 
 ### Refund Rates
